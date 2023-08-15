@@ -1,0 +1,3 @@
+command /discord:
+	trigger:
+		send message "&9&lDiscord&f:<link:your link> &f[Click Here]<reset>" to player
